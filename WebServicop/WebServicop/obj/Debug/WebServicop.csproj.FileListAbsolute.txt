@@ -1,0 +1,4 @@
+c:\users\zyg19\onedrive\documentos\visual studio 2012\Projects\WebServicop\WebServicop\bin\WebServicop.dll
+c:\users\zyg19\onedrive\documentos\visual studio 2012\Projects\WebServicop\WebServicop\bin\WebServicop.pdb
+c:\users\zyg19\onedrive\documentos\visual studio 2012\Projects\WebServicop\WebServicop\obj\Debug\WebServicop.dll
+c:\users\zyg19\onedrive\documentos\visual studio 2012\Projects\WebServicop\WebServicop\obj\Debug\WebServicop.pdb

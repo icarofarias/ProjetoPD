@@ -1,0 +1,8 @@
+c:\users\zyg19\onedrive\documentos\visual studio 2012\Projects\WindowsFormsInteracao\WindowsFormsInteracao\bin\Debug\WindowsFormsInteracao.exe.config
+c:\users\zyg19\onedrive\documentos\visual studio 2012\Projects\WindowsFormsInteracao\WindowsFormsInteracao\bin\Debug\WindowsFormsInteracao.exe
+c:\users\zyg19\onedrive\documentos\visual studio 2012\Projects\WindowsFormsInteracao\WindowsFormsInteracao\bin\Debug\WindowsFormsInteracao.pdb
+c:\users\zyg19\onedrive\documentos\visual studio 2012\Projects\WindowsFormsInteracao\WindowsFormsInteracao\obj\Debug\WindowsFormsInteracao.Form1.resources
+c:\users\zyg19\onedrive\documentos\visual studio 2012\Projects\WindowsFormsInteracao\WindowsFormsInteracao\obj\Debug\WindowsFormsInteracao.Properties.Resources.resources
+c:\users\zyg19\onedrive\documentos\visual studio 2012\Projects\WindowsFormsInteracao\WindowsFormsInteracao\obj\Debug\WindowsFormsInteracao.csproj.GenerateResource.Cache
+c:\users\zyg19\onedrive\documentos\visual studio 2012\Projects\WindowsFormsInteracao\WindowsFormsInteracao\obj\Debug\WindowsFormsInteracao.exe
+c:\users\zyg19\onedrive\documentos\visual studio 2012\Projects\WindowsFormsInteracao\WindowsFormsInteracao\obj\Debug\WindowsFormsInteracao.pdb
